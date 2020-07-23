@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile.
 
-🖥️ I’m looking for a job.
-⚡ Fun fact: I have passed all the Dark Souls games.
+- 🖥️ I’m looking for a job.
+- ⚡ Fun fact: I have passed all the Dark Souls games.
 
 <!--
 **carlop/carlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
