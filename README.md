@@ -3,6 +3,7 @@
 Welcome to my GitHub profile.
 
 - 🖥️ I’m looking for a job.
+- 🤖 I did a chatbot for my final project at university.
 - ⚡ Fun fact: I have passed all the Dark Souls games.
 
 <!--
